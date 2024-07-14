@@ -11,6 +11,7 @@ Data from board game geeks includes descriptions of board games, reviews from us
 
 ## Files
 **"Stats for data science document.pdf"** Quarto Document analysis of the board game data set
+
 **"Stats for data science R code.qmd"** R code of the analysis
 ## Summary of Analysis
 
